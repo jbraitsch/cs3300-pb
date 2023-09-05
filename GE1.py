@@ -1,5 +1,5 @@
 print("Team Puss in Boots")
-print("Joe getting it started")
-print("why is this so hard")
-
-
+print("Joe is starting it off")
+print("Luke")
+print("Joe is merging too")
+print("Nathan is here as well")
