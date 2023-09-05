@@ -1,2 +1,0 @@
-print("Team Puss in Boots")
-print("Joe getting it started")
