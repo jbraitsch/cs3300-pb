@@ -1,0 +1,27 @@
+Meeting 1 Agenda 
+
+    Who all attended 
+
+    Nathan Peckham, Luke Flancher, Joseph Braitsch 
+
+    What have you done so far? (Check in with the team) 
+
+    Luke has downloaded the environment, and the repository.  Joseph got the Git setup and created the repository and the branch that we are working on. I have the repository downloaded. 
+
+    What are you planning on doing? (Check where the team is going) 
+
+    Luke is planning on merging his changes from the repository when he gets logged into Git. Hao will then merge his changes onto the repository, and Joseph will do the final merge. Luke is planning on writing a technical document for python, and Joseph will write a technical document for Git, and I will provide some resources for both of those technical documents along with the rest of the team. Joseph will tag the code when it is finished. 
+
+    What is a/are the problem/s you are facing? 
+
+    Luke was having issues with his git password. Joseph and I needed help working together to get the merging to work properly. 
+
+    What came up that we need to talk about? 
+
+    For solving GE01, I will take the branch and merge my stuff onto it, Luke will merge his work onto mine, Hao will merge his onto Luke’s, and then Joseph will merge his stuff onto Hao. From there, Joseph will push the work onto main. 
+
+    We need to create technical documents and get working on those for the tech leads. 
+
+    We spend a good amount of time working with git to try and figure out the merging and how to get merge issue stuff fixed and working. 
+
+    We also discussed what the leads should be working on this week. 
